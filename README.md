@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 ## My Tech Stack
 
-- **Languages**: Python, Java, C, C++, HTML, CSS, JavaScript, SQL, NoSQL, PHP, Kotlin, Shell, Bash, SIMD  
+- **Languages**: Python, Java, C, C++, HTML, CSS, JavaScript, TypeScript, SQL, NoSQL, PHP, Kotlin, Shell, Bash, SIMD  
 - **Frameworks & Libraries**: PyTorch, TensorFlow, Keras, Scikit-learn, NumPy, Pandas, NLTK, OpenCV, Pillow, SciPy, Matplotlib, Seaborn  
 - **Technologies**: React, Node.js, MongoDB, Jupyter, JUnit, OpenMP, Spark, DBMS, RDBMS 
 
